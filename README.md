@@ -4,7 +4,7 @@
 
 <!-- ## Getting Started -->
 
- <img src="assets/screenshort/screenshot1.jpg" width="150" height="300">
+ <img src="assets/screenshort/screenshot1.jpg" alt-text= "123" width="150" height="300">
  <img src="assets/screenshort/screenshot2.jpg" width="150" height="300">
 </br>
 
