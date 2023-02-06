@@ -20,7 +20,7 @@ class CustomAppBar extends StatelessWidget {
               width: 10,
             ),
             Text(
-              "Hello, Vineetha",
+              "Hello, Kunal",
               style: TextStyle(
                 fontFamily: "Inter",
                 fontSize: 17,
